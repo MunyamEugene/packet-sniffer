@@ -1,3 +1,3 @@
 ### tesiting
- - python3 siniffer.py
+ - run python3 siniffer.py
  - paste your computer network interface
